@@ -8,3 +8,10 @@ pillow
 pixellib
 tensorflow-gpu
 pytesseract
+streamlit
+numpy
+Pillow
+torch
+torchvision
+pandas
+
