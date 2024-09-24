@@ -1,0 +1,14 @@
+[
+    {
+        "unique_id": "obj_1",
+        "description": "Segmented Object 1",
+        "extracted_text": "Text from object 1",
+        "master_image_id": "input_image_1"
+    },
+    {
+        "unique_id": "obj_2",
+        "description": "Segmented Object 2",
+        "extracted_text": "Text from object 2",
+        "master_image_id": "input_image_1"
+    }
+]
