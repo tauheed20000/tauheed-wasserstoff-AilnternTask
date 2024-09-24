@@ -1,0 +1,10 @@
+opencv-python
+scikit-image
+pillow
+pixellib
+tensorflow-gpu
+scikit-image
+pillow
+pixellib
+tensorflow-gpu
+pytesseract
