@@ -1,12 +1,12 @@
 streamlit==1.38.0
-opencv-python-headless==4.8.0.76  # Lighter version of OpenCV without GUI components, suitable for cloud deployments
-numpy==1.23.5
-Pillow==9.5.0
-torch==2.0.1
-torchvision==0.15.2
-scikit-image==0.20.0
-pixellib==0.7.1
-tensorflow-gpu==2.12.0
-pre-trained-segmentation-models  # You can adjust or install specific segmentation models if needed
-pytesseract==0.3.10
+opencv-python-headless==4.10.0.84
+numpy
+Pillow
+torch
+torchvision
+scikit-image
+pixellib
+tensorflow-gpu
+pre-trained-segmentation-models
+pytesseract
 
