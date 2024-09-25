@@ -1,16 +1,11 @@
 streamlit==1.38.0
-opencv-python
+opencv-python-headless
 numpy
 Pillow
 torch
 torchvision
 scikit-image
-pillow
 pixellib
 tensorflow-gpu
-scikit-image
-pillow
-pixellib
-tensorflow-gpu
-pre-trained segmentation models
+pre-trained-segmentation-models
 pytesseract
